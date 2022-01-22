@@ -1,0 +1,8 @@
+{
+    "cmake.configureOnOpen": true,
+    "files.associations": {
+        "sdl.h": "c",
+        "chess_engine.h": "c",
+        "tuple": "cpp"
+    }
+}
